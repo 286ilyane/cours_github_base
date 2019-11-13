@@ -46,6 +46,13 @@ section h1, footer h1, nav a
     text-transform: uppercase;
 }
 
+<<<<<<< HEAD
+=======
+section h1{
+	color: red;
+}
+
+>>>>>>> features/redesign
 /* Header */
 
 header
